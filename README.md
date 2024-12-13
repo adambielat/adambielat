@@ -12,5 +12,5 @@ I'm a passionate young developer from the UK 🇬🇧
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=adambielat&theme=dark&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adambielat&layout=compact&langs_count=8&card_width=320" />
+  <img height=2000 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adambielat&layout=compact" />
 </a>
