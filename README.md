@@ -2,7 +2,7 @@ I'm a passionate young developer from the UK 🇬🇧
 
 **ABOUT ME**
 
-* 📈‎ ‎ I am entry-level in Python
+* 📈‎ ‎ Passionate Python Developer
 * ❤️‎ ‎ I love building fun experiments
 * ⏰‎ ‎ I aim to create one new project a week
 
