@@ -11,7 +11,7 @@ My name is Adam 🇬🇧
 <br>
 
 
-**ᴹʸ ᴾᶜ ˢᵖᵉᶜˢ ⁻**:
+__ᴹʸ ᴾᶜ ˢᵖᵉᶜˢ ⁻__
 ![Windows 11 Pro](https://img.shields.io/badge/Windows-11_Pro-blue?logo=windows11)
 ![Ryzen 5 5500X](https://img.shields.io/badge/Ryzen%205-5500X-red?logo=amd)
 ![RTX 4060](https://img.shields.io/badge/RTX-4060-76b900?logo=nvidia)
