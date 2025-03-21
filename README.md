@@ -1,14 +1,29 @@
-Hello! 👋 <br>
+## About Me
+
+Hello! 👋  
 My name is Adam 🇬🇧
 
-<br>
+  
 
 **ABOUT ME**
-* 📈‎ ‎ 𝗣𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗣𝘆𝘁𝗵𝗼𝗻 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿
-* ❤️‎ ‎ 𝗜 𝗹𝗼𝘃𝗲 𝗯𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗳𝘂𝗻 𝗲𝘅𝗽𝗲𝗿𝗶𝗺𝗲𝗻𝘁𝘀
-* ⏰‎ ‎ 𝗜 𝗮𝗶𝗺 𝘁𝗼 𝗰𝗿𝗲𝗮𝘁𝗲 𝗼𝗻𝗲 𝗻𝗲𝘄 𝗽𝗿𝗼𝗷𝗲𝗰𝘁 𝗮 𝘄𝗲𝗲𝗸
 
-<br>
+*   📈‎ ‎ 𝗣𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗣𝘆𝘁𝗵𝗼𝗻 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿
+*   ❤️‎ ‎ 𝗜 𝗹𝗼𝘃𝗲 𝗯𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗳𝘂𝗻 𝗲𝘅𝗽𝗲𝗿𝗶𝗺𝗲𝗻𝘁𝘀
+*   ⏰‎ ‎ 𝗜 𝗮𝗶𝗺 𝘁𝗼 𝗰𝗿𝗲𝗮𝘁𝗲 𝗼𝗻𝗲 𝗻𝗲𝘄 𝗽𝗿𝗼𝗷𝗲𝗰𝘁 𝗮 𝘄𝗲𝗲𝗸  
+      
+    
+
+## My Skills
+
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff"> 
+
+## GitHub Stats
+
+<table><tbody><tr border="none"><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=adambielat&theme=dark&show_icons=true&count_private=true"><br>
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=adambielat&theme=dark"></td><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=adambielat&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
 
 __ᴹʸ ᴾᶜ ˢᵖᵉᶜˢ ⁻__
@@ -18,8 +33,7 @@ __ᴹʸ ᴾᶜ ˢᵖᵉᶜˢ ⁻__
 ![HyperX DDR4 3200 MHz 32GB RAM](https://img.shields.io/badge/RAM-DDR4_16GB_3200_MHz-red?logoWidth=50&logo=data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjczOSIgdmlld0JveD0iMCAwIDE0NC4yMzAyOTY1MDQyODIyIDQzLjY4NTcyNTUxMzA0OTUwNSIgd2lkdGg9IjI1MDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTI5LjU4IDE0LjY4SDM0bDEuMDgtMy41OSA5LjM1LTUuMzUgMS0zLjE3SDQxbC0uNDcgMS41OS02LjkyIDMuOTEtNC4zNS0zLjc2LjUzLTEuNzVoLTQuNDJsLS45IDNMMzAuNjkgMTF6bTM3LjE5LTQuOTJsLTEuNDcgNC45MWgyMGwxLTMuMTlINzEuMDdsNi42OS0yLjgxLTUuMjMtMi45MUg4OGwxLTMuMkg2OWwtMS41MSA0Ljc4IDIuMTUgMS4yM3pNOC4wMSAyLjU3SDMuNjNMMCAxNC42OGg0LjM4em0xNS4xOCAwaC00TDE3Ljg1IDdoLTEwbC0xIDMuMmgxMGwtMS4zNCA0LjQ2SDIwbDMuNi0xMi4wOXptMjcuMTcgMy4xOWgxMS4xOGwtLjMxIDEtMy43NiAxLjU4aC02Ljc0bC0xIDMuMTloOC40MWw2Ljg5LTIuOSAxLjg3LTYuMDZoLTIwbC0zLjYzIDEyLjExaDQuNDF6bTM4LjIzIDQuODdsLTEuMjIgNC4wNWg0LjQxcy43NS0yLjUyLjkzLTMuMDdjLTEuMzMtLjM3LTIuNzEtLjY5LTQuMTItLjk4em0xNC4xOS43NWw2LjM2LTIuNTlMMTExIDIuNTdIOTFsLTEuOSA2LjM2YTQ2LjkyIDQ2LjkyIDAgMCAxIDEzLjY4IDIuNDV6bS04LjMyLTUuNjJoMTEuMTdjLS4xNC40Ny0uMjguOTQtLjM0IDEuMTNsLTMuNDMgMS40NWgtOC4xOGMuMTctLjU0LjY4LTIuMjQuNzgtMi41OHoiIGZpbGw9IiNlMzE4MzciLz48cGF0aCBkPSJNMTMwLjU4IDM4LjVjLTMtOC45LTcuNTQtMTUuMjItMTIuNjktMTkuNjkgNC42MS00LjQ5IDcuNzYtMTAuNTggOC4zMy0xOC44MSAwIDAtMS44OCA4LjE5LTEyIDE2LTE1LTEwLjIzLTMzLTcuMzItMzMtNy4zMmE2MS4zIDYxLjMgMCAwIDEgMjkuMyA5LjkxYy05LjQ2IDYtMjQuNDYgMTEuMi00OC4wOSAxMS4zNyAwIDAgMzMuODMgNS4xIDUyLjI1LTguNDRhNjYuOTMgNjYuOTMgMCAwIDEgMTUuOSAxNi45OHoiIGZpbGw9IiNiM2IzYjMiLz48cGF0aCBkPSJNMTI3LjMzIDQuOTFhMi40IDIuNCAwIDEgMSAyLjQgMi40MSAyLjM5IDIuMzkgMCAwIDEtMi40LTIuNDF6bTQuNDEgMGEyIDIgMCAxIDAtNCAwIDIgMiAwIDEgMCA0IDB6bS0uODIgMS4zNWgtLjM5TDEyOS43NyA1aC0uNTl2MS4yNmgtLjM0VjMuNTlIMTMwYy43MSAwIC45NC4yNi45NC43MXMtLjM2LjcyLS44NC43M3ptLTEuMjYtMS40OWMuMzggMCAuOTQuMDcuOTQtLjQ4cy0uMzQtLjQ2LS42OC0uNDZoLS43NnYuOTV6IiBmaWxsPSIjZmZmIi8+PC9zdmc+)
 
 
-<br><br>
-[![Adam's Github stats](https://github-readme-stats.vercel.app/api?username=adambielat&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adambielat)](https://github.com/anuraghazra/github-readme-stats)
 
+## Connect with me
 
+<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/adam-bielat-504722329/" target="_blank">Adam Bielat</a> Email: adam.bielat7@gmail.com</p>
