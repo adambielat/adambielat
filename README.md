@@ -7,7 +7,7 @@
 <p><br></p>
 
 <p><strong>ABOUT ME</strong></p>
-<ul><li>📈‎ ‎ 𝗣𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗣𝘆𝘁𝗵𝗼𝗻 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿</li><li>❤️‎ ‎ 𝗜 𝗹𝗼𝘃𝗲 𝗯𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗳𝘂𝗻 𝗲𝘅𝗽𝗲𝗿𝗶𝗺𝗲𝗻𝘁𝘀</li><li>⏰‎ ‎ 𝗜 𝗮𝗶𝗺 𝘁𝗼 𝗰𝗿𝗲𝗮𝘁𝗲 𝗼𝗻𝗲 𝗻𝗲𝘄 𝗽𝗿𝗼𝗷𝗲𝗰𝘁 𝗮 𝘄𝗲𝗲𝗸<br><br></li></ul>
+<ul>📈‎ ‎ 𝗣𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗣𝘆𝘁𝗵𝗼𝗻 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿<li>❤️‎ ‎ 𝗜 𝗹𝗼𝘃𝗲 𝗯𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗳𝘂𝗻 𝗲𝘅𝗽𝗲𝗿𝗶𝗺𝗲𝗻𝘁𝘀</li><li>⏰‎ ‎ 𝗜 𝗮𝗶𝗺 𝘁𝗼 𝗰𝗿𝗲𝗮𝘁𝗲 𝗼𝗻𝗲 𝗻𝗲𝘄 𝗽𝗿𝗼𝗷𝗲𝗰𝘁 𝗮 𝘄𝗲𝗲𝗸<br><br></li></ul>
 
 ![Windows 11 Pro](https://img.shields.io/badge/Windows-11_Pro-blue?logo=windows11)
 ![Ryzen 5 5500X](https://img.shields.io/badge/Ryzen%205-5500X-red?logo=amd)
