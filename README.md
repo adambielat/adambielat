@@ -26,7 +26,7 @@ My name is Adam 🇬🇧
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=adambielat&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
 
-__ᴹʸ ᴾᶜ ˢᵖᵉᶜˢ ⁻__
+__My PC specs ⁻__
 ![Windows 11 Pro](https://img.shields.io/badge/Windows-11_Pro-blue?logo=windows11)
 ![Ryzen 5 5500X](https://img.shields.io/badge/Ryzen%205-5500X-red?logo=amd)
 ![RTX 4060](https://img.shields.io/badge/RTX-4060-76b900?logo=nvidia)
