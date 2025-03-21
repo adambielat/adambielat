@@ -1,9 +1,8 @@
 
 
 
-<h1 align="center">Hi there, I'm John 👋</h1>
+<h1 align="center">Hi there, I'm Adam 👋</h1>
 <div align="center">
-<p>Hello! 👋<br>My name is Adam 🇬🇧</p>
 
 <p><br></p>
 
