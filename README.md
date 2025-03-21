@@ -21,6 +21,5 @@
 <h2 align="center">🛠 My Stats</h2>
 <div align="center">
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=adambielat&theme=dark&show_icons=true&count_private=true"><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adambielat&layout=compact&theme=dark" alt="Top Languages Card"></div>
 <h2 align="center">📫 Connect with me</h2>
 <p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/adam-bielat-504722329/" target="_blank">Adam Bielat</a></p>
