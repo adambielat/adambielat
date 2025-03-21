@@ -1,6 +1,5 @@
-## About Me
 
-Hello! 👋  
+Hello! 👋 
 My name is Adam 🇬🇧
 
   
