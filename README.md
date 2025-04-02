@@ -21,5 +21,5 @@
 <h2 align="center">🛠 My Stats</h2>
 <div align="center">
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=adambielat&theme=dark&show_icons=true&count_private=true"><br>
-<h2 align="center">📫 Connect with me</h2>
-<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/adam-bielat-504722329/" target="_blank">Adam Bielat</a></p>
+<h2 align="center">⭐ Achievements</h2>
+<p align="center"><a href="https://camo.githubusercontent.com/ccf0da7d903e2fea6bfa12ac6ed8c0d415f1fe4679bd29c33dc8032bb68f42ac/68747470733a2f2f692e696d6775722e636f6d2f7a645753316a352e6a706567" target="_blank">Won my College's SWE Competition.</a></p>
